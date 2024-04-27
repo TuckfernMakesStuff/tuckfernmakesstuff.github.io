@@ -1,2 +1,1 @@
-# tuckfernmakesstuff.github.io
-New site
+just a stupid website
